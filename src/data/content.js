@@ -160,6 +160,28 @@ export const siteConfig = {
     "Admin dashboard for management",
       ],
     },
+    {
+  id: 6,
+  title: "Achar Store – Nepali Artisan Pickles Online",
+  description: "A modern, animated e-commerce website for Nepali handmade pickles, with a logo-matching design, responsive UI, WhatsApp ordering, and GSAP-powered interactivity.",
+  longDescription: "A fully branded web experience for Achar Store—offering authentic Nepali pickles. The platform matches the brand’s logo in fonts and color, supports shop by category/weight, animated product galleries, testimonials, contact with map, and one-click WhatsApp ordering. Built with React and Tailwind CSS, it is fully mobile-ready, easy to customize, and built to help small Nepali brands reach a broader audience.",
+  image: "./images/projects/acharstore.png",
+  technologies: ["React",  "Tailwind CSS", "GSAP","JavaScript", "React Router", "React Helmet"],
+  github: "https://github.com/Asminstha/acharstore",
+  live: "https://acharstore.netlify.app/", 
+  features: [
+    "Logo-matching fonts and brand design",
+    "Animated product galleries with thumbnail navigation",
+    "Order on WhatsApp integration",
+    "Shop by category & weight filters",
+    "Animated testimonials carousel",
+    "SEO-optimized with react-helmet",
+    "Map integration for easy local find",
+    "Responsive and mobile-first design",
+    "Accessible and keyboard-friendly UI",
+    "Customizable product and content data",
+  ],
+},
     //  more projects
   ],
 
